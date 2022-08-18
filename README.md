@@ -3,3 +3,4 @@ The need for scalable, cost-effective alternative energy solutions is critical i
 
 
  <img width="426" alt="Screen Shot 2022-08-18 at 12 07 07 PM" src="https://user-images.githubusercontent.com/98720566/185453982-adfcf5c7-270b-4525-a3e1-97fcc3d8ff25.png">
+<img width="463" alt="Screen Shot 2022-08-18 at 12 16 12 PM" src="https://user-images.githubusercontent.com/98720566/185455695-fe60b417-3d31-473e-b751-5aaddc9c8dd2.png">
